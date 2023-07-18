@@ -1,3 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeong%20Min&fontSize=90)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMin9807&count_bg=%23BEE1F1&title_bg=%23DDCFE7&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;
 | <a href="https://github.com/Min9807/Min9807"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Min9807&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cho yoonho's github stats" /></a> | <a href="https://github.com/Min9807/Min9807"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min9807&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
